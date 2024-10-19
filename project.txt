@@ -1,4 +1,6 @@
-SECTION 1
+SECTION 1         
+    THE BEGINNING
+ In a small town,a curious boy named Leo discovered his father's old computer in the attic.Intigued by blinking cursor on the screen ,he spent hours tinkering with it,learning the bacics of coding from old manuals.The world of computer science opened op to him,filled with logic,creativity,and endless possibillities.Inspired,Leo dreamed of creating something amazing.
 
 SECTION 2
 
